@@ -1,11 +1,21 @@
-# CyberSecurity
-shiftkey class
 ## Welcome to the Cybersecurity Course
 
-### Articles
-- [Introduction to Cybersecurity](https://github.com/user-attachments/files/16181456/Hands-On.session1.pdf)
-    -[Hands-On excersise] (https://github.com/user-attachments/files/16181456/Hands-On.session1.pdf)
-    -[Intruduction](https://github.com/user-attachments/files/16181456/Session 1.pdf)
-- [Network Security](articles/Network Security Fundamentals.md)
-- [System Security](articles/System Security and Secure Configuration.md)
-- [Incident Response and Penetration Testing​](articles/Incident Response and Penetration Testing​.md)
+# Cybersecurity Course
+
+### Sessions
+
+1. **Introduction to Cybersecurity**
+   - [Hands-On Exercise](https://github.com/user-attachments/files/16181456/Hands-On.session1.pdf)
+   - [Introduction](https://github.com/user-attachments/files/16181456/Session1.pdf)
+   
+2. **Network Security**
+   - [Hands-On Exercise](https://github.com/user-attachments/files/16181456/Hands-On.session1.pdf)
+   - [Introduction](https://github.com/user-attachments/files/16181456/Session1.pdf)
+
+3. **System Security**
+   - [Hands-On Exercise](https://github.com/user-attachments/files/16181456/Hands-On.session1.pdf)
+   - [Introduction](https://github.com/user-attachments/files/16181456/Session1.pdf)
+
+4. **Incident Response and Penetration Testing**
+    - [Hands-On Exercise](https://github.com/user-attachments/files/16181456/Hands-On.session1.pdf)
+    - [Introduction](https://github.com/user-attachments/files/16181456/Session1.pdf)
