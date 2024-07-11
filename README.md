@@ -5,7 +5,7 @@
 ### Sessions
 
 1. **Introduction to Cybersecurity**
-   - [Hands-On Exercise](https://github.com/user-attachments/files/16181456/Hands-On.session1.pdf)
+   - [Hands-On Exercise](https://github.com/HM64MS/CyberSecurity/blob/main/Hands-On%20session1.pdf)
    - [Introduction](https://github.com/user-attachments/files/16181456/Session1.pdf)
    
 2. **Network Security**
